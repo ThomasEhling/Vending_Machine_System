@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/VMsystem.dir/main.cpp.o CMakeFiles/VMsystem.dir/AbstractFactory.cpp.o CMakeFiles/VMsystem.dir/VM.cpp.o CMakeFiles/VMsystem.dir/Strategy.cpp.o CMakeFiles/VMsystem.dir/MDA.cpp.o CMakeFiles/VMsystem.dir/test/scenario.cpp.o  -o VMsystem 

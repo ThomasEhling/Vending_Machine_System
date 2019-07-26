@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="VMsystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VMsystem">
+				<Option output="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/VMsystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 VMsystem"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VMsystem/fast">
+				<Option output="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/VMsystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 VMsystem/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thomas/Documents/SSA/Project/VMsystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/AbstractFactory.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/MDA.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/Strategy.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/VM.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/AbstractFactory.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/DataStore.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/Globals.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/MDA.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/Strategy.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/includes/VM.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/main.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/test/scenario.cpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/test/scenario.hpp">
+			<Option target="VMsystem"/>
+		</Unit>
+		<Unit filename="/home/thomas/Documents/SSA/Project/VMsystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
