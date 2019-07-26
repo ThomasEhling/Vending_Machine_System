@@ -22,7 +22,7 @@ Alongside the following files :
 
 ## Implementation
 
-The code is in C++, and has been tested and run on the IDE "CLion" (from JetBrains).
+The code is in C++, and has been developed with the IDE "CLion" (from JetBrains), using CMake.
 
 In the “Globals.hpp” file I included two #define possibilities :
 - #define DEBUG_MODE that will print mor text (Call and actions between classes)
